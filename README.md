@@ -11,12 +11,12 @@ Ardunino frequency measurement for Elektor Sweep Function Generator based on XR2
  * Mortymore - Feb.2020
 
 
-Library for SSD1306 display and aditional info
-U8g2lib.h
+Library for SSD1306 display and aditional info: U8g2lib.h
+
 //https://github.com/olikraus/u8g2
 //https://github.com/olikraus/u8g2/wiki
                                             
-Library for frequency measurement                                            
-FreqCount.h
+Library for frequency measurement: FreqCount.h
+
 //https://github.com/PaulStoffregen/FreqCount
                                             
