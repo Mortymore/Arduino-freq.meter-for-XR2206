@@ -20,5 +20,3 @@ https://github.com/olikraus/u8g2/wiki
 Library for frequency measurement: FreqCount.h
 
 https://github.com/PaulStoffregen/FreqCount
-                                           
-Photos/Freq.Meter-Arduino_Func.Gen_Eletkor.jpg
