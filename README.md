@@ -1,7 +1,7 @@
 # Arduino-freq.meter-for-XR2206
 Ardunino frequency measurement for Elektor Sweep Function Generator based on XR2206
 
-Built this meter in 1994 ans thought it was about time to provide a display fo the frequency outputed by the generator. An arduino and a small LCD display seemed a good option. The display had to be tiny though. This 0.49" LCD was found to be good fit for the job.
+Built this Sweep Function Generator from an Elektor magazine article in 1994, and for year I wish to provide a way to display the frequency outputed by the generator. An arduino and a small LCD display seemed a good option. The display had to be tiny though, and to find one I waited a long time. Having found a 0.49" LCD it seemed to be a good fit for the job.
 
  * Arduino Frequency/Period counter
  * for Sweep/Function Generator (20Hz...200kHz)
