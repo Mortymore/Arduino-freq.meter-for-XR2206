@@ -21,3 +21,4 @@ Library for frequency measurement: FreqCount.h
 
 https://github.com/PaulStoffregen/FreqCount
                                            
+Photos/Freq.Meter-Arduino_Func.Gen_Eletkor.jpg
